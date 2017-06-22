@@ -1,0 +1,142 @@
+#wrapper{
+    width: 970px;
+    background: #265175;
+    padding: 10px 10px 0px 10px;
+}
+.rightheader{
+    display: inline-block;
+    text-align: right;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif; 
+    margin: 0px;
+    vertical-align: top;
+}
+.rightheader h5{
+    display: inline-block;
+    margin: 0px;
+}
+.rightheader a{
+    color: yellow;
+    font-weight: normal;
+    font-size: 80%;
+}
+.links h5{
+    display: inline-block;
+    margin: 0px;
+}
+.search{
+    padding: 10px 30px;
+    background: #444444;
+    display: inline-block;
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px black;
+}
+.bar{
+    padding: 10px 25px;
+}
+::placeholder{
+    text-align: center;
+}
+.button{
+    border-radius: 5px;
+    height: 37px;
+    width: 40px;
+    color: white;
+    background: #265175;
+}
+#navi h3{
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 7px 0px;
+    margin: 0px 20px;
+    font-weight: lighter;
+}
+#navi{
+    text-align: center;
+    background: #4A80AB;
+    margin: 0px 80px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px black;
+}
+.selection{
+    text-align: center;
+    display: inline-block;
+    list-style-position: inside;
+    vertical-align: top;
+    margin: 30px 20px;
+}
+.selection ul{
+    margin: 0px;
+}
+.selection a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.selection li{
+    margin-bottom: 10px;
+}
+.info{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 10pt;
+    display: inline-block;
+    width: 65%;
+    text-align: right;
+    margin: 15px 0px 25px 0px;
+}
+.info p{
+    text-align: center;
+    padding: 0px 25px;
+}
+.yellow{
+    display: block;
+    font-size: 14pt;
+    color: yellow;
+    font-style: italic;
+    text-align: center;
+}
+#mid{
+    display: inline-block;
+}
+#end{
+    background: white;
+    margin: 0px -10px;
+    text-align: center;
+}
+.started{
+    text-align: center;
+    display: inline-block;
+    border-top: 4px solid #7BACD5;
+    margin: 10px 0px;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 266px;
+}
+.started a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #7BACD5;
+    text-decoration: none;
+}
+.started h3, p{
+    margin: 5px 0px;
+}
+.started p{
+    height: 108px;
+}
+#footer{
+    text-align: center;
+}
+.ending{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #81B2DC;
+}
+.ending h4{
+    display: inline-block;
+    padding: 30px 20px 5px;
+    margin: 0px;
+}
+.copyright{
+    color: #81B2DC;
+    font-size: 8pt;
+}
